@@ -45,7 +45,7 @@ body{
 
 .thumbTitle{
     align-items: center;
-    font-size: 11px;
+    font-size: 13px;
     font-weight: bold;
     justify-content: space-between;
     padding: 1rem;
@@ -95,7 +95,7 @@ body{
 }
 .thumbTitle1{
     align-items: center;
-    font-size: 11px;
+    font-size: 13px;
     font-weight: bold;
     justify-content: space-between;
     padding: 1rem;
@@ -169,7 +169,7 @@ ion-icon{
 
 .thumbTitle2{
     align-items: center;
-    font-size: 11px;
+    font-size: 13px;
     font-weight: bold;
     justify-content: space-between;
     padding: 1rem;
@@ -216,7 +216,7 @@ ion-icon{
     padding-top: 15px;
     margin-left: 10px;
     margin-bottom: 0px;
-   font-size: 11px;
+   font-size: 13px;
    font-weight: bold;
    word-break: break-all;
 }
